@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Textutils
 
 A simple and interactive web application to analyze and manipulate text. Textutils allows users to perform various operations on text, view summaries, and preview results in real-time.
@@ -52,3 +53,6 @@ Vaishnavi Jaiswal
 GitHub: VshnviJ07
 
 LinkedIn: vaishnavijaiswal0710
+=======
+# Textutils1
+>>>>>>> 6decbb9342acef58b8889a48214c80de40f1b97c
