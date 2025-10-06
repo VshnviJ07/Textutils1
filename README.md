@@ -1,6 +1,6 @@
 
 # Textutils
-
+<img src="Screenshot (231).png" alt="Textutils" width="600">
 A simple and interactive web application to analyze and manipulate text. Textutils allows users to perform various operations on text, view summaries, and preview results in real-time.
 
 ---
